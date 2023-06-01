@@ -47,5 +47,5 @@ Je tiens à exprimer ma gratitude à tous les contributeurs de ce projet notamme
 Merci !
 
 ## Contact
-Portfolio: https://www.breroot.fr/
-linkedIn: https://fr.linkedin.com/in/bre-sanctifi%C3%A9-36b3a822b
+- Portfolio: https://www.breroot.fr/
+- linkedIn: https://fr.linkedin.com/in/bre-sanctifi%C3%A9-36b3a822b
