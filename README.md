@@ -5,7 +5,7 @@ La société « GestionMatos » est une entreprise de maintenance d’équipem
 Cette maintenance peut être préventive (programmée à l'avance), urgente (calculée sur la base du MTBF du matériel) ou curative (suite à une panne).
 Elle dispose d'un ensemble d'intervenants sur toute la France.
 
-## Configuration BDD 
+## DataBase Configuration
 
 L'application s'appuie sur une base de données pour stocker les informations relatives à l'équipement. Suivez les étapes suivantes pour configurer la base de données :
 
@@ -13,7 +13,7 @@ L'application s'appuie sur une base de données pour stocker les informations re
 2. Ouvrez l'outil de gestion de base de données et créez une nouvelle base de données nommée Par exemple (`GM.sql`.) et puis copier le script dans GM.sql
 3. Exécutez le script SQL fourni dans le référentiel sous `GestionMatosApp/WindowsFormsApp2SI/Gm.sql`
 
-## Configuration Application
+## Application Configuration
 
 Avant de lancer l'application, veillez à effectuer les étapes suivantes :
 
@@ -42,7 +42,7 @@ Ce projet est sous licence [MIT License](LICENSE), ce qui vous permet d'utiliser
 ## Contributions
 Les contributions à ce projet sont les bienvenues ! Si vous trouvez des bugs ou souhaitez suggérer de nouvelles fonctionnalités, veuillez soumettre un problème ou créer une demande d'extension sur le dépôt GitHub. Veillez à respecter le style de code du projet et les conventions décrites dans les directives de contribution.
 
-## Remerciements
+## Acknowledgements
 Je tiens à exprimer ma gratitude à tous les contributeurs de ce projet notamment mon Prof STEPHANE HALIMI, tous mes collègues de classe de ce projet et moi même. C’est un travail d’équipe qui a fait de GestionMatosApp un système de gestion des équipements robuste et efficace. 
 Merci !
 
