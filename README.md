@@ -41,32 +41,33 @@ Avant de lancer l'application, veillez à effectuer les étapes suivantes :
 1. Cloner le dépôt : `git clone https://github.com/Monsieur9Bre99/GestionMatosApp.git`
 
    ### Arborescence : 
+
    # GestionMatosApp/
     |-- Images/
     |-- WindowsFormsApp2SI/
-        |-- Bin/
-        |-- Data/
-            |-- GestionMatos.db.sql
-        |-- obj/
-        |-- Properties/
-        |--App.config
-        |--FormClients.cs
-        |--FormClients.Designer.cs
-        |--FormClients.resx
-        |--FormConnect.cs
-        |--FormConnect.Designer.cs
-        |--FormConnect.resx
-        |--FormGenerale.cs
-        |--FormGenerale.Designer.cs
-        |--FormGenerale.resx
-        |--FormInscription.cs
-        |--FormInscription.Designer.cs
-        |--FormInscription.resx
-        |--FormMateriel.cs
-        |--FormMateriel.Designer.cs
-        |--FormMateriel.resx
-        |--Program.cs
-        |--WindowsFormsApp2SI.csproj
+        ||-- Bin/
+        ||-- Data/
+            ||-- GestionMatos.db.sql
+        ||-- obj/
+        ||-- Properties/
+        ||--App.config
+        ||--FormClients.cs
+        ||--FormClients.Designer.cs
+        ||--FormClients.resx
+        ||--FormConnect.cs
+        ||--FormConnect.Designer.cs
+        ||--FormConnect.resx
+        ||--FormGenerale.cs
+        ||--FormGenerale.Designer.cs
+        ||--FormGenerale.resx
+        ||--FormInscription.cs
+        ||--FormInscription.Designer.cs
+        ||--FormInscription.resx
+        ||--FormMateriel.cs
+        ||--FormMateriel.Designer.cs
+        ||--FormMateriel.resx
+        ||--Program.cs
+        ||--WindowsFormsApp2SI.csproj
     |--.gitattributes
     |--.gitignore
     |--LICENSE.txt
@@ -93,15 +94,15 @@ Pour installer Gestion Matos dans votre environnement de développement local av
 Une fois SQL Server Express et SSMS installés, suivez les étapes suivantes pour configurer la base de données :
 
 1. Ouvrez SQL Server Management Studio (SSMS).
-    ![Étape 1](./images/step-1-image-1.jpg)
+    ![Étape 1](./Images/step-1-image-1.jpg)
 
 2. Connectez-vous à votre instance de SQL Server Express.
-    ![Étape 2](./images/step-3-image-3.jpg)
+    ![Étape 2](./Images/step-3-image-3.jpg)
 
 3. Copiez et Exécutez le script SQL fourni dans le référentiel sous `GestionMatosApp/WindowsFormsApp2SI/Data/GestionMatos.db.sql` pour créer les tables et les données nécessaires.
-    ![Étape 3](./images/Capture-db.jpg)
-    ![Étape 3](./images/Capture-db-2.jpg)
-    ![Étape 3](./images/Capture-db-exec.jpg)
+    ![Étape 3](./Images/Capture-db.jpg)
+    ![Étape 3](./Images/Capture-db-2.jpg)
+    ![Étape 3](./Images/Capture-db-exec.jpg)
 
 ## Test
 
@@ -113,10 +114,10 @@ Pour tester l'application, utilisez les informations d'identification suivantes 
 
 Veillez à utiliser ces informations d'identification pour vous connecter à l'application et vérifier que toutes les caractéristiques et fonctionnalités fonctionnent comme prévu.
 
-![Test](./images/capture-connexion-form.jpg)
-![Test](./images/capture-connexion-form-2.jpg)
-![Test](./images/capture-inscription-form.jpg)
-![Test](./images/capture-form-ajout.jpg)
+![Test](./Images/capture-connexion-form.jpg)
+![Test](./Images/capture-connexion-form-2.jpg)
+![Test](./Images/capture-inscription-form.jpg)
+![Test](./Images/capture-form-ajout.jpg)
 
 ## Error & Troubleshooting
 
