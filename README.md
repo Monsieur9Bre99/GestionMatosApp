@@ -40,39 +40,40 @@ Avant de lancer l'application, veillez à effectuer les étapes suivantes :
 
 1. Cloner le dépôt : `git clone https://github.com/Monsieur9Bre99/GestionMatosApp.git`
 
-   ### Arborescence : 
+## Arborescence : 
 
-GestionMatosApp/
-|-- Images/
-|-- WindowsFormsApp2SI/
-|   |-- Bin/
-|   |-- Data/
-|   |   |-- GestionMatos.db.sql
-|   |-- obj/
-|   |-- Properties/
-|   |   |-- App.config
-|   |   |-- FormClients.cs
-|   |   |-- FormClients.Designer.cs
-|   |   |-- FormClients.resx
-|   |   |-- FormConnect.cs
-|   |   |-- FormConnect.Designer.cs
-|   |   |-- FormConnect.resx
-|   |   |-- FormGenerale.cs
-|   |   |-- FormGenerale.Designer.cs
-|   |   |-- FormGenerale.resx
-|   |   |-- FormInscription.cs
-|   |   |-- FormInscription.Designer.cs
-|   |   |-- FormInscription.resx
-|   |   |-- FormMateriel.cs
-|   |   |-- FormMateriel.Designer.cs
-|   |   |-- FormMateriel.resx
-|   |-- Program.cs
-|   |-- WindowsFormsApp2SI.csproj
-|-- .gitattributes
-|-- .gitignore
-|-- LICENSE.txt
-|-- README.md
-|-- WindowsFormsApp2SI.sln
+# GestionMatosApp/
+
+    |-- Images/
+    |-- WindowsFormsApp2SI/
+            |-- Bin/         
+            |-- obj/
+            |-- Data/
+                |-- GestionMatos.db.sql
+            |-- Properties/      
+            |-- App.config
+            |-- FormClients.cs
+            |-- FormClients.Designer.cs
+            |-- FormClients.resx    
+            |-- FormConnect.cs
+            |-- FormConnect.Designer.cs
+            |-- FormConnect.resx
+            |-- FormGenerale.cs
+            |-- FormGenerale.Designer.cs
+            |-- FormGenerale.resx
+            |-- FormInscription.cs
+            |-- FormInscription.Designer.cs
+            |-- FormInscription.resx
+            |-- FormMateriel.cs
+            |-- FormMateriel.Designer.cs
+            |-- FormMateriel.resx
+            |-- Program.cs
+            |-- WindowsFormsApp2SI.csproj
+    |-- .gitattributes
+    |-- .gitignore
+    |--  LICENSE.txt
+    |-- README.md
+    |-- WindowsFormsApp2SI.sln
 
 2. Ouvrez le dossier ou Lancez simplement le fichier de solution `WindowsFormsApp2SI.sln` dans votre environnement de développement C# préféré (par exemple, Visual Studio).
 3. Construire la solution pour résoudre les dépendances et compiler le code.
