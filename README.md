@@ -40,38 +40,40 @@ Avant de lancer l'application, veillez à effectuer les étapes suivantes :
 
 1. Cloner le dépôt : `git clone https://github.com/Monsieur9Bre99/GestionMatosApp.git`
 
-   ### Arborescence : 
-   # GestionMatosApp/
+## Arborescence : 
+
+# GestionMatosApp/
+
     |-- Images/
     |-- WindowsFormsApp2SI/
-        |-- Bin/
-        |-- Data/
-            |-- GestionMatos.db.sql
-        |-- obj/
-        |-- Properties/
-        |--App.config
-        |--FormClients.cs
-        |--FormClients.Designer.cs
-        |--FormClients.resx
-        |--FormConnect.cs
-        |--FormConnect.Designer.cs
-        |--FormConnect.resx
-        |--FormGenerale.cs
-        |--FormGenerale.Designer.cs
-        |--FormGenerale.resx
-        |--FormInscription.cs
-        |--FormInscription.Designer.cs
-        |--FormInscription.resx
-        |--FormMateriel.cs
-        |--FormMateriel.Designer.cs
-        |--FormMateriel.resx
-        |--Program.cs
-        |--WindowsFormsApp2SI.csproj
-    |--.gitattributes
-    |--.gitignore
-    |--LICENSE.txt
-    |--README.md
-    |--WindowsFormsApp2SI.sln
+            |-- Bin/         
+            |-- obj/
+            |-- Data/
+                |-- GestionMatos.db.sql
+            |-- Properties/      
+            |-- App.config
+            |-- FormClients.cs
+            |-- FormClients.Designer.cs
+            |-- FormClients.resx    
+            |-- FormConnect.cs
+            |-- FormConnect.Designer.cs
+            |-- FormConnect.resx
+            |-- FormGenerale.cs
+            |-- FormGenerale.Designer.cs
+            |-- FormGenerale.resx
+            |-- FormInscription.cs
+            |-- FormInscription.Designer.cs
+            |-- FormInscription.resx
+            |-- FormMateriel.cs
+            |-- FormMateriel.Designer.cs
+            |-- FormMateriel.resx
+            |-- Program.cs
+            |-- WindowsFormsApp2SI.csproj
+    |-- .gitattributes
+    |-- .gitignore
+    |--  LICENSE.txt
+    |-- README.md
+    |-- WindowsFormsApp2SI.sln
 
 2. Ouvrez le dossier ou Lancez simplement le fichier de solution `WindowsFormsApp2SI.sln` dans votre environnement de développement C# préféré (par exemple, Visual Studio).
 3. Construire la solution pour résoudre les dépendances et compiler le code.
@@ -93,15 +95,20 @@ Pour installer Gestion Matos dans votre environnement de développement local av
 Une fois SQL Server Express et SSMS installés, suivez les étapes suivantes pour configurer la base de données :
 
 1. Ouvrez SQL Server Management Studio (SSMS).
-    ![Étape 1](./images/step-1-image-1.jpg)
+   
+    ![Étape 1](./Images/step-1-image-1.jpg)
 
-2. Connectez-vous à votre instance de SQL Server Express.
-    ![Étape 2](./images/step-3-image-3.jpg)
+3. Connectez-vous à votre instance de SQL Server Express.
+   
+    ![Étape 2](./Images/step-3-image-3.jpg)
 
-3. Copiez et Exécutez le script SQL fourni dans le référentiel sous `GestionMatosApp/WindowsFormsApp2SI/Data/GestionMatos.db.sql` pour créer les tables et les données nécessaires.
-    ![Étape 3](./images/Capture-db.jpg)
-    ![Étape 3](./images/Capture-db-2.jpg)
-    ![Étape 3](./images/Capture-db-exec.jpg)
+4. Copiez et Exécutez le script SQL fourni dans le référentiel sous `GestionMatosApp/WindowsFormsApp2SI/Data/GestionMatos.db.sql` pour créer les tables et les données nécessaires.
+   
+    ![Étape 3](./Images/Capture-db.jpg)
+   
+    ![Étape 3](./Images/Capture-db-2.jpg)
+   
+    ![Étape 3](./Images/Capture-db-exec.jpg)
 
 ## Test
 
@@ -113,12 +120,15 @@ Pour tester l'application, utilisez les informations d'identification suivantes 
 
 Veillez à utiliser ces informations d'identification pour vous connecter à l'application et vérifier que toutes les caractéristiques et fonctionnalités fonctionnent comme prévu.
 
-![Test](./images/capture-connexion-form.jpg)
-![Test](./images/capture-connexion-form-2.jpg)
-![Test](./images/capture-inscription-form.jpg)
-![Test](./images/capture-form-ajout.jpg)
+![Test](./Images/capture-connexion-form.jpg)
 
-## Error & Troubleshooting
+![Test](./Images/capture-connexion-form-2.jpg)
+
+![Test](./Images/capture-inscription-form.jpg)
+
+![Test](./Images/capture-form-ajout.jpg)
+
+## Erreurs et Dépannage
 
 Si vous rencontrez des problèmes ou des erreurs pendant le processus d'installation ou pendant l'utilisation de l'application, veuillez vous référer à l'issue tracker du projet sur le dépôt GitHub pour les problèmes connus et les solutions possibles. Si votre problème persiste, n'hésitez pas à me contacter et à me fournir des informations détaillées sur l'erreur que vous avez rencontrée.
 
@@ -133,8 +143,8 @@ Les contributions à ce projet sont les bienvenues ! Si vous trouvez des bugs ou
 <table>
   <tr align="center">
     <td>
-        <a href="https://github.com/ESSAMAMI">
-        <img src="https://avatars.githubusercontent.com/u/29731343?s=100" />
+        <a href="https://github.com/shalimipro">
+        <img src="https://avatars.githubusercontent.com/u/20605765?s=100" />
         <br/>
         <sub><b>STEPHANE HALIMI</b></sub></a>
     </td>
