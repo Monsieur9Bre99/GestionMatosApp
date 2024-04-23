@@ -45,29 +45,29 @@ Avant de lancer l'application, veillez à effectuer les étapes suivantes :
 GestionMatosApp/
 |-- Images/
 |-- WindowsFormsApp2SI/
-| |-- Bin/
-| |-- Data/
-| | |-- GestionMatos.db.sql
-| |-- obj/
-| |-- Properties/
-| | |-- App.config
-| | |-- FormClients.cs
-| | |-- FormClients.Designer.cs
-| | |-- FormClients.resx
-| | |-- FormConnect.cs
-| | |-- FormConnect.Designer.cs
-| | |-- FormConnect.resx
-| | |-- FormGenerale.cs
-| | |-- FormGenerale.Designer.cs
-| | |-- FormGenerale.resx
-| | |-- FormInscription.cs
-| | |-- FormInscription.Designer.cs
-| | |-- FormInscription.resx
-| | |-- FormMateriel.cs
-| | |-- FormMateriel.Designer.cs
-| | |-- FormMateriel.resx
-| |-- Program.cs
-| |-- WindowsFormsApp2SI.csproj
+|   |-- Bin/
+|   |-- Data/
+|   |   |-- GestionMatos.db.sql
+|   |-- obj/
+|   |-- Properties/
+|   |   |-- App.config
+|   |   |-- FormClients.cs
+|   |   |-- FormClients.Designer.cs
+|   |   |-- FormClients.resx
+|   |   |-- FormConnect.cs
+|   |   |-- FormConnect.Designer.cs
+|   |   |-- FormConnect.resx
+|   |   |-- FormGenerale.cs
+|   |   |-- FormGenerale.Designer.cs
+|   |   |-- FormGenerale.resx
+|   |   |-- FormInscription.cs
+|   |   |-- FormInscription.Designer.cs
+|   |   |-- FormInscription.resx
+|   |   |-- FormMateriel.cs
+|   |   |-- FormMateriel.Designer.cs
+|   |   |-- FormMateriel.resx
+|   |-- Program.cs
+|   |-- WindowsFormsApp2SI.csproj
 |-- .gitattributes
 |-- .gitignore
 |-- LICENSE.txt
@@ -127,7 +127,7 @@ Veillez à utiliser ces informations d'identification pour vous connecter à l'a
 
 ![Test](./Images/capture-form-ajout.jpg)
 
-## Error & Troubleshooting
+## Erreurs et Dépannage
 
 Si vous rencontrez des problèmes ou des erreurs pendant le processus d'installation ou pendant l'utilisation de l'application, veuillez vous référer à l'issue tracker du projet sur le dépôt GitHub pour les problèmes connus et les solutions possibles. Si votre problème persiste, n'hésitez pas à me contacter et à me fournir des informations détaillées sur l'erreur que vous avez rencontrée.
 
@@ -143,7 +143,7 @@ Les contributions à ce projet sont les bienvenues ! Si vous trouvez des bugs ou
   <tr align="center">
     <td>
         <a href="https://github.com/shalimipro">
-        <img src="https://avatars.githubusercontent.com/u/29731343?s=100" />
+        <img src="https://avatars.githubusercontent.com/u/20605765?s=100" />
         <br/>
         <sub><b>STEPHANE HALIMI</b></sub></a>
     </td>
