@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Auteur-breroot-gree?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Oui-darkgreen?style=flat-square">
   <img src="https://img.shields.io/badge/Maintenu-Oui-lightblue?style=flat-square">
-  <img src="https://img.shields.io/badge/Ecrit%20en-C%23-darkcyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Ecrit%20en-C%23-purple?style=flat-square">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMonsieur9Bre99%2FGestionMatosApp&title=Visitors&edge_flat=false"/>
 </p>
 
