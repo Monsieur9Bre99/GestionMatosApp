@@ -157,7 +157,7 @@ Je souhaite exprimer ma gratitude et ma reconnaissance à tous les contributeurs
 THANKS.
 
 ## Contact
-- Portfolio: https://www.breroot.fr/
-- linkedIn: https://fr.linkedin.com/in/bre-sanctifi%C3%A9-36b3a822b
+- [Portfolio](https://www.breroot.fr/)
+- [Linkedin](https://fr.linkedin.com/in/bre-sanctifi%C3%A9-36b3a822b)
 
-<h3><p align="center">GestionMatosApp - Application de Gestion des Équipements Informatiques - @breroot</p></h3>
+<h3><p align="center">GestionMatosApp - Application de Gestion des Équipements Informatiques - &copy; 2023</p></h3>
